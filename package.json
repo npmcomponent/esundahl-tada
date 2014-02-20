@@ -1,0 +1,17 @@
+{
+  "name": "esundahl-tada",
+  "description": "tada animation",
+  "version": "0.0.1",
+  "keywords": [
+    "css3",
+    "animation",
+    "tada"
+  ],
+  "styles": [
+    "tada.css"
+  ],
+  "dependencies": {
+    "esundahl-animated": "git://github.com/npmcomponent/esundahl-animated.git"
+  },
+  "license": "MIT"
+}
